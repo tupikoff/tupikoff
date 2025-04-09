@@ -21,9 +21,10 @@ Hi, I'm **Aleksandr**, an experienced **Team/Tech Lead** and **Senior Software E
 - Team/Tech Lead
 - Senior/Lead Software Developer
 - Agile Coach
-- CTO
-- Head of Software Development
-- Project Manager/Analyst/Software Engineer
+- Head of Software Development/CTO
+- Product Owner/Scrum master
+- Project Manager/Analyst
+- Software Engineer
 
 ---
 
