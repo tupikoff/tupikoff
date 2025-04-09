@@ -1,7 +1,5 @@
 ## Grace and peace to you! <><
 
----
-
 ### About Me
 
 Hi, I'm **Aleksandr**, an experienced **Team/Tech Lead** and **Senior Software Engineer** with over 20 years in IT. I specialize in software development, team management, and Agile methodologies.
