@@ -1,9 +1,5 @@
 ## Grace and peace to you! <><
 
-![GitLab Activity](atupikov1_gitlab.png)
-
-My work activity is primarily focused on GitLab, where I contribute to various projects as a Team/Tech Lead and Senior Software Engineer.
-
 ---
 
 ### About Me
@@ -39,4 +35,10 @@ Hi, I'm **Aleksandr**, an experienced **Team/Tech Lead** and **Senior Software E
 - Agile Coach, Agile Team Facilitator
 - Agile Programming
 
-```
+---
+
+My work activity is primarily focused on GitLab, where I contribute to various projects as a Team/Tech Lead and Senior Software Engineer.
+
+![GitLab Activity](atupikov1_gitlab.png)
+
+
